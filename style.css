@@ -110,8 +110,7 @@ body{
     align-items: center;
     padding: 1rem;
 }
-.app-download{
-    height: 3rem;
+.app-download {
     width: 10rem;
     background-size: cover;
 }
